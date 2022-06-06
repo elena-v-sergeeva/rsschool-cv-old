@@ -11,11 +11,11 @@
 I am 39 years old and a housewife. I really want to learn Front-End Development in RSSchool!
 
 ## Skills
-- HTML5, CSS3
-- JavaScript Basics
-- Git, GitHub
-- VS Code
-- Adobe Photoshop, Figma
+- *HTML5, CSS3*
+- *JavaScript Basics*
+- *Git, GitHub*
+- *VS Code*
+- *Adobe Photoshop, Figma*
 
 ## Code Example
 ```
