@@ -18,7 +18,6 @@ I am 39 years old and a housewife. I really want to learn Front-End Development 
 - Adobe Photoshop, Figma
 
 ## Code Example
-
 ```
 let a = [];
 
@@ -57,6 +56,5 @@ Nothing yet
   + [JavaScript v.2.0](https://itgid.info/course/javascript-2) 
 
 ## Languages
-
 - **Russian** - native speaker
 - **English** - A1
