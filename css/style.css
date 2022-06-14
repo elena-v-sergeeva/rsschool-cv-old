@@ -44,7 +44,13 @@ body {
     margin: 0 auto;
 }
 
-.header {
+.header .container {
+    background-color: rgba(225, 215, 19, 0.756);
+}
+
+.header .container .nav-list {
+    margin: 0;
+    padding: 16px 0 16px 40px;
     background-color: rgba(225, 215, 19, 0.756);
 }
 
@@ -171,7 +177,7 @@ pre {
     box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
 }
 
-.footer {
+.footer .container {
     background-color: rgba(225, 215, 19, 0.756);
 }
 
